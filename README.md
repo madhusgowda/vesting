@@ -2,11 +2,11 @@
 
 Vesting contract of a token
 
-Token address: 0x1b18cba9B5e9327b8072e1dC9089870CA8724b44
-Vesting contract address: 0x718fA81872aa52a51A3F742D210dE9973c8168D5
-Testnet Link: https://ropsten.etherscan.io/
+    Token address: 0x1b18cba9B5e9327b8072e1dC9089870CA8724b44
+    Vesting contract address: 0x718fA81872aa52a51A3F742D210dE9973c8168D5
+    Testnet Link: https://ropsten.etherscan.io/
 
- /*
+
        * TEST SUMMARY
        * deploy vesting contract
        * send tokens to vesting contract
@@ -25,4 +25,3 @@ Testnet Link: https://ropsten.etherscan.io/
        * check that the number of released tokens is 100
        * check that the vested amount is 0
        * check that anyone cannot revoke a vesting
- */
